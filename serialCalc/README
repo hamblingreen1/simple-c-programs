@@ -1,0 +1,9 @@
+serialCalc -- Serial data transfer speed calculator
+
+By hamblingreen <hamblingreen@hotmail.com> 
+
+Purpose: Calculate how long data transfer through a serial cable would take. To be small, fast, well-documented, and demonstrate the life cycle of a simple C program.
+
+Usage: Type in the data size in Megabytes and, if you wish, the baud rate of your serial port (seperated by a space). If the baud rate is not specified, the Pinephone's default of 115200 will be used.
+
+Reference: Steve Oualline

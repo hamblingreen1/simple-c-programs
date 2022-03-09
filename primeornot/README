@@ -1,0 +1,18 @@
+PrimeOrNot -- Find out whether a number is prime or not through a series of tests
+
+By hamblingreen <hamblingreen@hotmail.com> 
+
+Purpose: Find out whether a number is prime or not and display that information in a command-line interface. To be small, fast, well-documented, and demonstrate the life cycle of a simple C program.
+
+Usage: Type in number. Enter a blank line to exit.
+
+Reference: Steve Oualline
+
+code structure
+
+while loop
+prompt user input
+check for exit value
+last digit check
+sum divisible by 3 check
+
