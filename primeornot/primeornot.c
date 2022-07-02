@@ -29,6 +29,7 @@ float	divisible;	/* sum / 3 */
 int main() {
 	while (1) {
 		input = 0; /* exit if user does not input number */
+		(void) strcpy(prime, "prime"); /* set default prime value */
 
 		/* read user input */
 		(void) printf("Input number in question: ");
@@ -57,14 +58,11 @@ int main() {
 		}
 
 		/* is that sum evenly divisible by three? */
-		divisible = input / 3;
+		divisible = sum / 3;
 		if (divisible - (int) divisible == 0) {
-			(void) strcpy(prime, "not prime");
-			break;
-		} else {
 			(void) strcpy(prime, "prime");
+			break;
 		}
-
 	}
 		/* print result */
 		(void) printf("%d is %s.\n", input, prime);
