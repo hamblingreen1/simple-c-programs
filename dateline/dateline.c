@@ -60,4 +60,5 @@ main() {
 		/* display user output */
 		(void) printf("Between %d %d %d and %d %d %d, there are %d days, %d months, and %d years.\n", day1, month1, year1, day2, month2, year2, day3, month3, year3);
 	}
+	return (0);
 }

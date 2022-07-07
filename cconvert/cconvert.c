@@ -58,4 +58,5 @@ main() {
 		}
 		(void) printf("%f %c is equal to %f metric units\n", value, unit, result);	/* print result */
 	}
+	return (0);
 }
