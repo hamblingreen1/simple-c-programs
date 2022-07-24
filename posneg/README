@@ -1,0 +1,12 @@
+posneg -- Calculate the number of positive and negative numbers in a
+data set
+
+By hamblingreen <hamblingreen@hotmail.com> 
+
+Purpose: Calculate the number of positive and negative numbers in a data
+set. To be small, fast, well-documented, and demonstrate the life cycle
+of a simple C program.
+
+Usage: Type in numbers seperated by spaces
+
+Reference: Steve Oualline
