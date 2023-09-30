@@ -1,8 +1,9 @@
 Simple C Programs
 =================
-By Hamblingreen
+By Bobby Hamblin
 
-This is a collection of short and sweet programs written in C. I got the prompts
-from Steve Oualline's book *Practical C Programming*. The docs are included in each folders README and in the C files themeslves. The comment boxes on the C files are
-designed to fit on the Pinephone's screen. These programs are licensed under the
-MIT License.
+This is a collection of short and sweet programs written in C. I got
+the prompts from Steve Oualline's book *Practical C Programming*. The
+docs are included in each C file. The comment boxes on the C files are
+designed to fit on the Pinephone's screen. These programs are licensed
+under the MIT License.

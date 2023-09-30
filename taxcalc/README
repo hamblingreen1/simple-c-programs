@@ -1,9 +1,0 @@
-TaxCalc -- Sales tax calculator
-
-By hamblingreen <hamblingreen@hotmail.com> 
-
-Purpose: Find the added cost of sales tax to a product of a particular price, and display this information in a command-line interface. To be small, fast, well-documented, and demonstrate the life cycle of a simple C program.
-
-Usage: Type in price and (optionally) desired sales tax percentage. The default sales tax percentage is 8%. Enter a blank line to exit.
-
-Reference: Steve Oualline

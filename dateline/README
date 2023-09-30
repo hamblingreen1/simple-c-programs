@@ -1,9 +1,0 @@
-Dateline -- Find the time between 2 different dates
-
-By hamblingreen <hamblingreen@hotmail.com> 
-
-Purpose: Find the time between 2 dates, and display that information in a command-line-interface. To be small, fast, well-documented, and demonstrate the life cycle of a simple C program.
-
-Usage: Type in the first date, followed by the second in the following format: 12 4 22 4 2 23. Enter a blank line to exit.
-
-Reference: Steve Oualline
